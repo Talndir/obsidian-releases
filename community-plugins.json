@@ -16574,6 +16574,13 @@
     "author": "Lutu-gl",
     "description": "Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated — similar to flashcards in Anki or Quizlet!",
     "repo": "Lutu-gl/Obsidian-Minimal-Quiz"
+  },
+  {
+    "id": "graphless-links",
+    "name": "Graphless Links",
+    "author": "Omar Tahir",
+    "description": "Adds a new type of link that doesn't appear in graph view.",
+    "repo": "Talndir/obsidian-graphless-links"
   }
 ]
 
